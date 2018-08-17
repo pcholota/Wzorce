@@ -18,21 +18,21 @@ public class HouseBuilder {
         Builder builder3 = new set03();
         
         System.out.println("We can offer you 3 sets of houses.");
-        System.out.println("Set nr 1");
+        System.out.println("Set nr 1.");
         
         director.setBuilder(builder);
         director.createHouse();
         House house = director.getHouse();
         house.show_details();
         
-        System.out.println("Set nr 2");
+        System.out.println("Set nr 2.");
         
         director.setBuilder(builder2);
         director.createHouse();
         house=director.getHouse();
         house.show_details();
         
-        System.out.println("Set nr 3");
+        System.out.println("Set nr 3.");
         
         director.setBuilder(builder3);
         director.createHouse();
