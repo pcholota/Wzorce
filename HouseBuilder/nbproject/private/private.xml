@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Patrick/Documents/NetBeansProjects/HouseBuilder/src/housebuilder/HouseBuilder.java</file>
-            <file>file:/C:/Users/Patrick/Documents/NetBeansProjects/HouseBuilder/src/housebuilder/Director.java</file>
-            <file>file:/C:/Users/Patrick/Documents/NetBeansProjects/HouseBuilder/src/housebuilder/House.java</file>
+            <file>file:/C:/Users/Patrick/Rep/Wzorce/HouseBuilder/src/housebuilder/Builder.java</file>
+            <file>file:/C:/Users/Patrick/Rep/Wzorce/HouseBuilder/src/housebuilder/Director.java</file>
+            <file>file:/C:/Users/Patrick/Rep/Wzorce/HouseBuilder/src/housebuilder/House.java</file>
+            <file>file:/C:/Users/Patrick/Rep/Wzorce/HouseBuilder/src/housebuilder/HouseBuilder.java</file>
         </group>
     </open-files>
 </project-private>

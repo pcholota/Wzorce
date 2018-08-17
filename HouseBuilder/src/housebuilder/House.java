@@ -41,7 +41,7 @@ public class House {
     public void show_details(){
         System.out.println("Details of the House:");
         if(type!=null)  System.out.println("Type: "+type);
-        if(area!=-1)  System.out.println("Area: "+area);
+        if(area!=-1)  System.out.println("Area: "+area+" m^2");
         if(floors!=-1) System.out.println("Floors: "+floors);
         if(cost!=-1)  System.out.println("Cost: "+cost+" $.");
     }
