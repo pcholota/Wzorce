@@ -9,13 +9,16 @@ package factory;
  *
  * @author Patrick
  */
-public class Factory {
+public class AudiFactory implements IFactory{
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    @Override
+    public IHatchback fHatchback() {
+        return new AudiHatchback();
+    }
+
+    @Override
+    public ICoupe fCoupe() {
+        return new AudiCoupe();
     }
     
 }
